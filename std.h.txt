@@ -1,2 +1,4 @@
 int c=9;
 int y=8;
+int pos=9;
+int pos1=8;
