@@ -1,3 +1,5 @@
 int c=0;
 int y=20;
+int x=80;
+int u=5;
 
